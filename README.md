@@ -1,2 +1,2 @@
-# Project-JS-MostrarEstablecimientosEnUnMapaConLeaflet-master
-JS
+# Project-JS-MostrarEstablecimientosEnUnMapaConLeaflet
+## JS - Proyecto
